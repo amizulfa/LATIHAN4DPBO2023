@@ -11,9 +11,17 @@ Aamiin.
 ![image](https://user-images.githubusercontent.com/100895165/223082770-53044801-172b-444e-9996-a0ab74f36f44.png)
 
 ### ALUR PROGRAM
-```comingsoon```
+Program ini memakai hardcode sebagai input nya.
 ### PENJELASAN CLASS
-```comingsoon```
+Pada bahasa pemrograman Python terdapat 7 class, yaitu:
+- Human
+- Sivitas Akademik
+- Mahasiswa
+- Dosen
+- Program Studi
+- Course
+
+Sedangkan pada bahasa pemrograman C++, terdapat 7 class ditambah dengan 1 header.
 ### HASIL PROGRAM PYTHON
 - daftar mahasiswa
 
