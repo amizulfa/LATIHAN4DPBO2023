@@ -5,7 +5,8 @@ saya tidak melakukan kecurangan seperti yang telah dispesifikasikan.
 Aamiin.
 
 ### BAHASA
-```comingsoon```
+- Python
+- C++
 ### CLASS DIAGRAM
 ![image](https://user-images.githubusercontent.com/100895165/223082770-53044801-172b-444e-9996-a0ab74f36f44.png)
 
@@ -13,7 +14,7 @@ Aamiin.
 ```comingsoon```
 ### PENJELASAN CLASS
 ```comingsoon```
-### HASIL PROGRAM
+### HASIL PROGRAM PYTHON
 - daftar mahasiswa
 
 ![image](https://user-images.githubusercontent.com/100895165/223084318-ffdae471-25df-4d97-8b52-51ceb31cfd3c.png)
@@ -23,3 +24,6 @@ Aamiin.
 - daftar course
 
 ![image](https://user-images.githubusercontent.com/100895165/223084366-48766487-5642-42fe-a70f-e142a8f4b4e3.png)
+
+### HASIL PROGRAM C++
+<img width="263" alt="image" src="https://user-images.githubusercontent.com/100895165/224046564-c19cbbce-862d-49e4-8a44-e33ffb46ef8f.png">
