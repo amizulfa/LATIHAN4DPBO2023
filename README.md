@@ -15,7 +15,11 @@ Buatlah program berbasis OOP menggunakan bahasa pemrograman C++ dan Python  yang
 
 ### BAHASA
 - Python
+
+``` py Main.py ```
 - C++
+
+``` g++ *.cpp -o Main.exe ```
 ### CLASS DIAGRAM
 ![image](https://user-images.githubusercontent.com/100895165/223082770-53044801-172b-444e-9996-a0ab74f36f44.png)
 
