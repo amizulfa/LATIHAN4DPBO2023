@@ -11,8 +11,11 @@ Aamiin.
 ![image](https://user-images.githubusercontent.com/100895165/223082770-53044801-172b-444e-9996-a0ab74f36f44.png)
 
 ### ALUR PROGRAM
-Program ini memakai hardcode sebagai input nya.
-### PENJELASAN CLASS
+- Program ini memakai hardcode sebagai input nya.
+- Mahasiswa, Dosen, Prodi, dan Course dimasukan ke dalam list.
+- Sehingga outputnya akan mengeluarkan list program studi yang di dalamnya terdapat list Mahasiswa, Dosen, dan Course.
+
+### CLASS
 Pada bahasa pemrograman Python terdapat 7 class, yaitu:
 - Human
 - Sivitas Akademik
@@ -21,7 +24,15 @@ Pada bahasa pemrograman Python terdapat 7 class, yaitu:
 - Program Studi
 - Course
 
-Sedangkan pada bahasa pemrograman C++, terdapat 7 class ditambah dengan 1 header.
+Sedangkan pada bahasa pemrograman C++, terdapat 7 class yang sama seperti di atas dan ditambah dengan 1 header.
+
+### Relasi
+- Human, sebagai base class atau parent dari semua class.
+- Sivitas Akademik, memiliki relasi "is a" dengan Human. Karena Sivitas Akademik adalah seorang Manusia dan objeknya sama yaitu Manusia.
+- Mahasiswa is a Sivitas Akademik, karena seorang Mahasiswa termasuk ke dalam Sivitas Akademik.
+- Dosen is a Sivitas Akademik, karena seorang Dosen termasuk ke dalam Sivitas Akademik
+- Prodi memiliki relasi "has a" dengan class Mahasiswa, Dosen, dan Course. Karena di dalam program studi pasti memiliki Mahasiswa,  Dosen, dan Course
+
 ### HASIL PROGRAM PYTHON
 - daftar mahasiswa
 
