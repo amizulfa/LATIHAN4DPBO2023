@@ -4,6 +4,15 @@ dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya 
 saya tidak melakukan kecurangan seperti yang telah dispesifikasikan.
 Aamiin.
 
+### SOAL
+Buatlah program berbasis OOP menggunakan bahasa pemrograman C++ dan Python  yang mengimplementasikan konsep inheritance, composition, dan array of object pada kelas-kelas tersebut:
+- Mahasiswa: NIM, nama, jenis_kelamin, fakultas
+- Human: NIK, nama, jenis_kelamin
+- SivitasAkademik: asal_universitas, email_edu
+- Dosen: NIP, nama, jenis_kelamin, fakultas, pend_terakhir, keahlian
+- Course: nama_matakuliah, 
+- Program Studi: nama_prodi, kode, course
+
 ### BAHASA
 - Python
 - C++
@@ -14,6 +23,10 @@ Aamiin.
 - Program ini memakai hardcode sebagai input nya.
 - Mahasiswa, Dosen, Prodi, dan Course dimasukan ke dalam list.
 - Sehingga outputnya akan mengeluarkan list program studi yang di dalamnya terdapat list Mahasiswa, Dosen, dan Course.
+- List Program studi
+    - list mahasiswa
+    - list dosen
+    - list course
 
 ### CLASS
 Pada bahasa pemrograman Python terdapat 7 class, yaitu:
